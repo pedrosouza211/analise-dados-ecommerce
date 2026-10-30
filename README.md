@@ -51,13 +51,13 @@ Os resultados das consultas foram processados e organizados em arquivos CSV. A p
 
 Os resultados das análises foram organizados em relatórios visuais, apresentando os principais indicadores e informações extraídas do banco de dados de e-commerce.
 
-### 01. [Análise das formas de pagamento](https://github.com/pedrosouza211/analise-dados-ecommerce/blob/main/Relat%C3%B3rios/Analise_Forma_Pagamentos.jpeg)
+### 01. [Análise da evolução de pedidos e faturamento](https://github.com/pedrosouza211/analise-dados-ecommerce/blob/main/Relat%C3%B3rios/Analise_Evolucao_pedido_faturamento.jpg)
 
-### 02. [Concentração de vendas](https://github.com/pedrosouza211/analise-dados-ecommerce/blob/main/Relat%C3%B3rios/Concentra%C3%A7%C3%A3o_Vendas.jpeg)
+### 02. [Análise das formas de pagamento](https://github.com/pedrosouza211/analise-dados-ecommerce/blob/main/Relat%C3%B3rios/Analise_Forma_Pagamentos.jpeg)
 
-### 03. [Evolução de pedidos e faturamento](https://github.com/pedrosouza211/analise-dados-ecommerce/blob/main/Relat%C3%B3rios/Evolu%C3%A7ao_Pedidos_Faturamento.jpeg)
+### 03. [Análise da operação](https://github.com/pedrosouza211/analise-dados-ecommerce/blob/main/Relat%C3%B3rios/An%C3%A1lise_Opera%C3%A7%C3%A3o.jpg)
 
-### 04. [Indicadores de cancelamento](https://github.com/pedrosouza211/analise-dados-ecommerce/blob/main/Relat%C3%B3rios/Indicadores_De_Cancelamento.jpg)
+### 04. [Concentração de vendas](https://github.com/pedrosouza211/analise-dados-ecommerce/blob/main/Relat%C3%B3rios/Concentra%C3%A7%C3%A3o_Vendas.jpeg)
 
 ## Autor
 
